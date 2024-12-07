@@ -4,7 +4,7 @@
 function printNumber(num){
     for (let i = 1; i <=num; i++){
         const element = i;
-     console.log(element);
+     console.log(`the value of is ${element}`);
            
     }
 }
